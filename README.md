@@ -3,7 +3,7 @@
 ## Statistic of the dataset
 
 | Dataset | Total |
-|:---|:---:|
+|:---|:---|
 | UIT-HWDB-word | 110,745|
 | UIT-HWDB-line | 7,273 |
 | UIT-HWDB-paragraph | 1144 |
