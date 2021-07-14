@@ -29,7 +29,7 @@
 
         ![UIT-HWDB-line-1](images/lines/3.jpg) ![UIT-HWDB-line-1](images/lines/4.jpg)
 
-    *UIT-HWDB-paragraph:
+    * UIT-HWDB-paragraph:
 
         ![UIT-HWDB-paragraph-1](images/paragraphs/1.jpg) ![UIT-HWDB-paragraph-1](images/paragraphs/2.jpg)
 
