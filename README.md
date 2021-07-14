@@ -13,15 +13,15 @@
 
 * Our dataset has 5 parts in total:
 
-    * UIT-HWDB-word: [https://drive.google.com/drive/folders/1YYE37ApgxiXOjpm7-mZKq8q472TkvdkA?usp=sharing]()
+    * UIT-HWDB-word: [https://drive.google.com/drive/folders/1YYE37ApgxiXOjpm7-mZKq8q472TkvdkA?usp=sharing](https://drive.google.com/drive/folders/1YYE37ApgxiXOjpm7-mZKq8q472TkvdkA?usp=sharing)
 
-    * UIT-HWDB-line: [https://drive.google.com/drive/folders/1iM_9PXczXXOrE7Dtw8CuxQeawAuMVRd1?usp=sharing]()
+    * UIT-HWDB-line: [https://drive.google.com/drive/folders/1iM_9PXczXXOrE7Dtw8CuxQeawAuMVRd1?usp=sharing](https://drive.google.com/drive/folders/1iM_9PXczXXOrE7Dtw8CuxQeawAuMVRd1?usp=sharing)
 
-    * UIT-HWDB-paragraph: [https://drive.google.com/drive/folders/1Wf92nNJsz0rVOzefPhvLZscE6xzy9YDf?usp=sharing]()
+    * UIT-HWDB-paragraph: [https://drive.google.com/drive/folders/1Wf92nNJsz0rVOzefPhvLZscE6xzy9YDf?usp=sharing](https://drive.google.com/drive/folders/1Wf92nNJsz0rVOzefPhvLZscE6xzy9YDf?usp=sharing)
 
-    * UIT-HWDB-syn-word: [https://drive.google.com/drive/folders/1FNQos8H3KjJqBwjk_R8_E19DfRDE6u3y?usp=sharing]()
+    * UIT-HWDB-syn-word: [https://drive.google.com/drive/folders/1FNQos8H3KjJqBwjk_R8_E19DfRDE6u3y?usp=sharing](https://drive.google.com/drive/folders/1FNQos8H3KjJqBwjk_R8_E19DfRDE6u3y?usp=sharing)
 
-    * UIT-HWDB-syn-line: [https://drive.google.com/drive/folders/12zwTYdpzG7yqAMBDpVOKaE-misSCZrqa?usp=sharing]()
+    * UIT-HWDB-syn-line: [https://drive.google.com/drive/folders/12zwTYdpzG7yqAMBDpVOKaE-misSCZrqa?usp=sharing](https://drive.google.com/drive/folders/12zwTYdpzG7yqAMBDpVOKaE-misSCZrqa?usp=sharing)
 
 
 ## Sample images
