@@ -6,7 +6,7 @@
 |:---|:---|
 | UIT-HWDB-word | 110,745|
 | UIT-HWDB-line | 7,273 |
-| UIT-HWDB-paragraph | 1144 |
+| UIT-HWDB-paragraph | 1,144 |
 | UIT-HWDB-syn-word | 500,000 |
 | UIT-HWDB-syn-line | 300,000 |
 
