@@ -1,7 +1,14 @@
-
 # UIT-HWDB dataset
 
 ## Statistic of the dataset
+
+| Dataset | Total |
+|:---:|:---:|
+| UIT-HWDB-word | 110,745|
+| UIT-HWDB-line | 7,273 |
+| UIT-HWDB-paragraph | 1144 |
+| UIT-HWDB-syn-word | 500,000 |
+| UIT-HWDB-syn-line | 300,000 |
 
 
 * Our dataset has 5 parts in total:
