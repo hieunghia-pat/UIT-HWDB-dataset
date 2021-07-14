@@ -16,6 +16,8 @@
     * UIT-HWDB-syn-line: [https://drive.google.com/drive/folders/12zwTYdpzG7yqAMBDpVOKaE-misSCZrqa?usp=sharing]()
 
 
+## Sample images
+
 * Some examples from the training set of the UIT-HWDB dataset:
 
     * UIT-HWDB-word:
