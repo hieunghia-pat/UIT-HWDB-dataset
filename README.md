@@ -7,8 +7,8 @@
 | UIT-HWDB-word | 110,745|
 | UIT-HWDB-line | 7,273 |
 | UIT-HWDB-paragraph | 1,144 |
-| UIT-HWDB-syn-word | 500,000 |
-| UIT-HWDB-syn-line | 300,000 |
+| UIT-HWDB-word-syn | 307,734 |
+| UIT-HWDB-line-syn | 36,320 |
 
 
 * Our dataset has 5 parts in total:
@@ -52,6 +52,6 @@
     
     * UIT-HWDB-line-syn 
 
-        ![UIT-HWDB-line-1](images/lines_syn/1.png) ![UIT-HWDB-line-1](images/lines_syn/2.png)
+        ![UIT-HWDB-line-1](images/lines_syn/line_1.png) ![UIT-HWDB-line-1](images/lines_syn/line_2.png)
 
-        ![UIT-HWDB-line-1](images/lines_syn/3.png) ![UIT-HWDB-line-1](images/lines_syn/4.png)
+        ![UIT-HWDB-line-1](images/lines_syn/line_3.png) ![UIT-HWDB-line-1](images/lines_syn/line_4.png)
