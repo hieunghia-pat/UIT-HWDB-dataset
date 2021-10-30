@@ -13,15 +13,15 @@
 
 * Our dataset has 5 parts in total:
 
-    * UIT-HWDB-word: [https://drive.google.com/drive/folders/1YYE37ApgxiXOjpm7-mZKq8q472TkvdkA?usp=sharing](https://drive.google.com/drive/folders/1YYE37ApgxiXOjpm7-mZKq8q472TkvdkA?usp=sharing)
+    * UIT-HWDB-word: [https://drive.google.com/file/d/1n4sE79un-v8RryydsXun5t_Fq1W4UfXo/view?usp=sharing](https://drive.google.com/file/d/1n4sE79un-v8RryydsXun5t_Fq1W4UfXo/view?usp=sharing)
 
-    * UIT-HWDB-line: [https://drive.google.com/drive/folders/1iM_9PXczXXOrE7Dtw8CuxQeawAuMVRd1?usp=sharing](https://drive.google.com/drive/folders/1iM_9PXczXXOrE7Dtw8CuxQeawAuMVRd1?usp=sharing)
+    * UIT-HWDB-line: [https://drive.google.com/file/d/12JQnvaK_cQ9nfWEaHp9uVyYPJ7tJopBE/view?usp=sharing](https://drive.google.com/file/d/12JQnvaK_cQ9nfWEaHp9uVyYPJ7tJopBE/view?usp=sharing)
 
-    * UIT-HWDB-paragraph: [https://drive.google.com/drive/folders/1Wf92nNJsz0rVOzefPhvLZscE6xzy9YDf?usp=sharing](https://drive.google.com/drive/folders/1Wf92nNJsz0rVOzefPhvLZscE6xzy9YDf?usp=sharing)
+    * UIT-HWDB-paragraph: [https://drive.google.com/file/d/1ru17he8OIM0AiTBLrR5_Mnz26NlVWLwU/view?usp=sharing](https://drive.google.com/file/d/1ru17he8OIM0AiTBLrR5_Mnz26NlVWLwU/view?usp=sharing)
 
-    * UIT-HWDB-syn-word: [https://drive.google.com/drive/folders/1FNQos8H3KjJqBwjk_R8_E19DfRDE6u3y?usp=sharing](https://drive.google.com/drive/folders/1FNQos8H3KjJqBwjk_R8_E19DfRDE6u3y?usp=sharing)
+    * UIT-HWDB-word-syn: [https://drive.google.com/file/d/1TDpqEZccmbImuHOf6qsxEcF_Os2Kvemb/view?usp=sharing](https://drive.google.com/file/d/1TDpqEZccmbImuHOf6qsxEcF_Os2Kvemb/view?usp=sharing)
 
-    * UIT-HWDB-syn-line: [https://drive.google.com/drive/folders/12zwTYdpzG7yqAMBDpVOKaE-misSCZrqa?usp=sharing](https://drive.google.com/drive/folders/12zwTYdpzG7yqAMBDpVOKaE-misSCZrqa?usp=sharing)
+    * UIT-HWDB-line-syn: [https://drive.google.com/file/d/1yrZLpQKm7Fwkz0xAE4JgjUqlR11N9m43/view?usp=sharing](https://drive.google.com/file/d/1yrZLpQKm7Fwkz0xAE4JgjUqlR11N9m43/view?usp=sharing)
 
 
 ## Sample images
@@ -44,6 +44,14 @@
 
         ![UIT-HWDB-paragraph-1](images/paragraphs/2.jpg)
 
-    * UIT-HWDB-syn-word: because of the large amount of the images, this part of the dataset will be uploaded soon.
+    * UIT-HWDB-word-syn: 
+
+        ![UIT-HWDB-word-1](images/words_syn/word_1.png) ![UIT-HWDB-word-1](images/words_syn/word_2.png)
+
+        ![UIT-HWDB-word-1](images/words_syn/word_3.png) ![UIT-HWDB-word-1](images/words_syn/word_4.png)
     
-    * UIT-HWDB-syn-line: because of the large amount of the images, this part of the dataset will be uploaded soon.
+    * UIT-HWDB-line-syn 
+
+        ![UIT-HWDB-line-1](images/lines_syn/1.png) ![UIT-HWDB-line-1](images/lines_syn/2.png)
+
+        ![UIT-HWDB-line-1](images/lines_syn/3.png) ![UIT-HWDB-line-1](images/lines_syn/4.png)
