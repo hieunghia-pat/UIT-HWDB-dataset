@@ -55,3 +55,24 @@
         ![UIT-HWDB-line-1](images/lines_syn/line_1.png) ![UIT-HWDB-line-1](images/lines_syn/line_2.png)
 
         ![UIT-HWDB-line-1](images/lines_syn/line_3.png) ![UIT-HWDB-line-1](images/lines_syn/line_4.png) -->
+
+Please cite our study if your work have any information relevant to our dataset:
+```
+@inproceedings{DBLP:conf/rivf/NguyenVN22,
+  author       = {Nghia Hieu Nguyen and
+                  Duong T. D. Vo and
+                  Kiet Van Nguyen},
+  title        = {{UIT-HWDB:} Using Transferring Method to Construct {A} Novel Benchmark
+                  for Evaluating Unconstrained Handwriting Image Recognition in Vietnamese},
+  booktitle    = {{RIVF} International Conference on Computing and Communication Technologies,
+                  {RIVF} 2022, Ho Chi Minh City, Vietnam, December 20-22, 2022},
+  pages        = {659--664},
+  publisher    = {{IEEE}},
+  year         = {2022},
+  url          = {https://doi.org/10.1109/RIVF55975.2022.10013898},
+  doi          = {10.1109/RIVF55975.2022.10013898},
+  timestamp    = {Mon, 30 Jan 2023 14:34:17 +0100},
+  biburl       = {https://dblp.org/rec/conf/rivf/NguyenVN22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
