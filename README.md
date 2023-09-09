@@ -13,15 +13,11 @@
 
 * Our dataset has 3 parts in total:
 
-    * UIT-HWDB-word: [https://drive.google.com/file/d/1n4sE79un-v8RryydsXun5t_Fq1W4UfXo/view?usp=sharing](https://drive.google.com/file/d/1n4sE79un-v8RryydsXun5t_Fq1W4UfXo/view?usp=sharing)
+    * UIT-HWDB-word: ([https://drive.google.com/file/d/1frQAnh_AViNrNkyRXbbt2DhyGQT-k2dK/view?usp=share_link](https://drive.google.com/file/d/1frQAnh_AViNrNkyRXbbt2DhyGQT-k2dK/view?usp=share_link)).
 
-    * UIT-HWDB-line: [https://drive.google.com/file/d/12JQnvaK_cQ9nfWEaHp9uVyYPJ7tJopBE/view?usp=sharing](https://drive.google.com/file/d/12JQnvaK_cQ9nfWEaHp9uVyYPJ7tJopBE/view?usp=sharing)
+    * UIT-HWDB-line: ([https://drive.google.com/file/d/1Ul6r2lSP24PlZ6Biabhzg5Q2Wg8Qw6E-/view?usp=share_link](https://drive.google.com/file/d/1Ul6r2lSP24PlZ6Biabhzg5Q2Wg8Qw6E-/view?usp=share_link)).
 
-    * UIT-HWDB-paragraph: [https://drive.google.com/file/d/1ru17he8OIM0AiTBLrR5_Mnz26NlVWLwU/view?usp=sharing](https://drive.google.com/file/d/1ru17he8OIM0AiTBLrR5_Mnz26NlVWLwU/view?usp=sharing)
-<!-- 
-    * UIT-HWDB-word-syn: [https://drive.google.com/file/d/1TDpqEZccmbImuHOf6qsxEcF_Os2Kvemb/view?usp=sharing](https://drive.google.com/file/d/1TDpqEZccmbImuHOf6qsxEcF_Os2Kvemb/view?usp=sharing)
-
-    * UIT-HWDB-line-syn: [https://drive.google.com/file/d/1yrZLpQKm7Fwkz0xAE4JgjUqlR11N9m43/view?usp=sharing](https://drive.google.com/file/d/1yrZLpQKm7Fwkz0xAE4JgjUqlR11N9m43/view?usp=sharing) -->
+    * UIT-HWDB-paragraph: ([https://drive.google.com/file/d/1aMi0RjLcvvxqogKXE_phyFvWT7xXzdRV/view?usp=share_link](https://drive.google.com/file/d/1aMi0RjLcvvxqogKXE_phyFvWT7xXzdRV/view?usp=share_link)).
 
 
 ## Sample images
@@ -56,7 +52,7 @@
 
         ![UIT-HWDB-line-1](images/lines_syn/line_3.png) ![UIT-HWDB-line-1](images/lines_syn/line_4.png) -->
 
-Please cite our study if your work have any information relevant to our dataset:
+Please cite our study if your work has any information relevant to our dataset:
 ```
 @inproceedings{DBLP:conf/rivf/NguyenVN22,
   author       = {Nghia Hieu Nguyen and
